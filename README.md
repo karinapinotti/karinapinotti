@@ -4,7 +4,7 @@
 🏦 +5 anos em ambientes corporativos (bancário) | 5+ years in corporate environments (banking)  
 ☁️ Cloud | Microservices | Data Pipelines  
 
----
+----
 
 ## 🚀 Sobre mim | About me
 
