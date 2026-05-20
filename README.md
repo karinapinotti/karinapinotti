@@ -103,15 +103,11 @@ Sistema desktop para controle de pedidos
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=karinapinotti&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=karinapinotti&show_icons=true" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=karinapinotti&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=karinapinotti&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinapinotti&layout=compact" />
 </p>
 
 ---
