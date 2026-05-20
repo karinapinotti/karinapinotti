@@ -106,6 +106,12 @@ Sistema desktop para controle de pedidos
 
 ![Profile Views](https://komarev.com/ghpvc/?username=karinapinotti)
 
+## 📊 Linguagens Mais Usadas
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karinapinotti&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karinapinotti&theme=tokyonight)
+
 ---
 
 ## 🌐 Contato
