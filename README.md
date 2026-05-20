@@ -102,13 +102,9 @@ Sistema desktop para controle de pedidos
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karinapinotti&show_icons=true" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=karinapinotti)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinapinotti&layout=compact" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=karinapinotti)
 
 ---
 
