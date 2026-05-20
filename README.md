@@ -103,11 +103,11 @@ Sistema desktop para controle de pedidos
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=karinapinotti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karinapinotti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&v=2"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=karinapinotti&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinapinotti&layout=compact&langs_count=8&theme=tokyonight&hide=jupyter%20notebook,html,css&v=2"/>
 </p>
 
 <p align="center">
